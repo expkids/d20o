@@ -310,7 +310,7 @@
         },
         {
             "key": "csp_Jianpian",
-            "name": "🥰荐片┃VOX",
+            "name": "😍荐片┃VOX",
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
