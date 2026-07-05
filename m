@@ -1,5 +1,5 @@
 {
-    "spider": "https://bitbucket.org/guot55/ygbh/raw/main/pro/jar/vox.jar",
+    "spider": "./jar/vox.jar",
     "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
     "logo": "https://bitbucket.org/guot55/ygbh/raw/main/pro/1.gif",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
